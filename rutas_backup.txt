@@ -1,0 +1,2 @@
+1:/home/bocho/dotfiles
+2:/home/bocho/.config/picom/

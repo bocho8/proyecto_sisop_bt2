@@ -1,0 +1,17 @@
+2024-11-12 09:24:32 - Alta de ruta: /home/bocho/dotfiles (ID: 1)
+2024-11-12 09:27:11 - Backup realizado: backups/backup_12-11-2024_09-27-11.tar.gz
+2024-11-12 09:28:27 - Backup realizado: backups/backup_12-11-2024_09-28-27.tar.gz
+2024-11-12 09:30:17 - Backup realizado: backups/backup_12-11-2024_09-30-17.tar.gz
+2024-11-12 12:08:19 - Backup realizado: backups/backup_12-11-2024_12-08-19.tar.gz
+2024-11-12 15:11:40 - Backup realizado: backup_12-11-2024_15-11-40.tar.gz
+2024-11-12 15:14:26 - Backup realizado: backup_12-11-2024_15-14-26.tar.gz
+2024-11-12 15:18:54 - Backup realizado: backup_12-11-2024_15-18-54.tar.gz
+2024-11-12 15:19:40 - Backup realizado: backup_12-11-2024_15-19-40.tar.gz
+2024-11-12 15:20:55 - Backup realizado: backup_12-11-2024_15-20-55.tar.gz
+2024-11-12 15:21:56 - Backup realizado: backup_12-11-2024_15-21-56.tar.gz
+2024-11-12 15:23:10 - Backup realizado: backup_12-11-2024_15-23-10.tar.gz
+2024-11-12 15:24:11 - Alta de ruta: /home/bocho/.config/picom/ (ID: 2)
+2024-11-12 15:24:26 - Backup realizado: backup_12-11-2024_15-24-26.tar.gz
+2024-11-12 15:24:26 - Backup realizado: backup_12-11-2024_15-24-26.tar.gz
+2024-11-12 15:26:20 - Backup realizado: backup_12-11-2024_15-26-19.tar.gz
+2024-11-12 15:26:20 - Backup realizado: backup_12-11-2024_15-26-19.tar.gz

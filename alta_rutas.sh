@@ -1,5 +1,7 @@
 #!/bin/bash
 
+touch rutas_backup.txt
+
 # Obtener el último número autogenerado del archivo rutas_backup.txt
 ultimo_numero=$(tail -n 1 rutas_backup.txt | cut -d: -f1)
 

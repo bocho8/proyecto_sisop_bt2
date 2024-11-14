@@ -1,8 +1,4 @@
 2024-11-12 09:24:32 - Alta de ruta: /home/bocho/dotfiles (ID: 1)
-2024-11-12 09:27:11 - Backup realizado: backups/backup_12-11-2024_09-27-11.tar.gz
-2024-11-12 09:28:27 - Backup realizado: backups/backup_12-11-2024_09-28-27.tar.gz
-2024-11-12 09:30:17 - Backup realizado: backups/backup_12-11-2024_09-30-17.tar.gz
-2024-11-12 12:08:19 - Backup realizado: backups/backup_12-11-2024_12-08-19.tar.gz
 2024-11-12 15:11:40 - Backup realizado: backup_12-11-2024_15-11-40.tar.gz
 2024-11-12 15:14:26 - Backup realizado: backup_12-11-2024_15-14-26.tar.gz
 2024-11-12 15:18:54 - Backup realizado: backup_12-11-2024_15-18-54.tar.gz

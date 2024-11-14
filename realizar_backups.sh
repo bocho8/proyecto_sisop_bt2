@@ -14,7 +14,7 @@ while read linea; do
   ruta=$(echo "$linea" | cut -d: -f2)
 
   # Crear el nombre del archivo de backup
-  nombre_backup="backup_$id_ruta_$fecha.tar.gz"
+  nombre_backup="backup_${id_ruta}_$fecha.tar.gz"
 
   # Comprimir el contenido del directorio actual en un archivo .tar.gz 
   tar -Pczf "./backups/$nombre_backup" "$ruta" 

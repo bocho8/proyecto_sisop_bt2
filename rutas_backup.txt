@@ -1,3 +1,0 @@
-1:/home/bocho/.config/
-2:/home/bocho/practicos
-3:/home/bocho/bt2

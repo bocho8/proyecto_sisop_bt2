@@ -1,0 +1,6 @@
+2024-11-14 12:30:08 - Alta de ruta: /home/bocho/.config (ID: 1)
+2024-11-14 12:31:00 - Alta de ruta: /home/bocho/practicos (ID: 2)
+2024-11-14 12:31:06 - Alta de ruta: /home/bocho/bt2 (ID: 3)
+2024-11-14 12:31:10 - Backup realizado: backup_1_14-11-2024_12-31-10.tar.gz
+2024-11-14 12:31:10 - Backup realizado: backup_2_14-11-2024_12-31-10.tar.gz
+2024-11-14 12:31:10 - Backup realizado: backup_3_14-11-2024_12-31-10.tar.gz
